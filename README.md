@@ -60,7 +60,7 @@ The Agri-CM<sup>3</sup> contains **3939** high-quality images and **15,901** mul
 we conduct a systematic evaluation of various MLLMs, including 38 open-source and seven proprietary models, to assess their performance on the Agri-CM<sup>3</sup> benchmark. All evaluations are conducted in a zero-shot setting.
 
 
-![](assets/results.jpg)
+![](assets/results.png)
 
 
 
